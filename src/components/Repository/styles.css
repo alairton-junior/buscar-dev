@@ -1,0 +1,36 @@
+.repo {
+    background-color: var(--bg-color);
+    border-radius: 20px;
+    padding: 20px 20px;
+    width: 80%;
+}
+
+.repo h3 {
+    margin-bottom: 10px;
+}
+
+.repo h3 a{
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+}
+
+.repo h3 a .icon {
+    font-size: 24px;
+    margin-right: 10px;
+    color: white;
+}
+
+.repo p {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.repo:first-child {
+    font-size: 20px;
+}
+
+.repo + .repo {
+    margin-top: 20px;
+}
+

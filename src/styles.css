@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --bg-color: #0C0E10;
+    --border-color: rgba(229,229,229,0.2);
+    --secondary-color: #181C1F;
+    --green: #00B37E;
+}
+
+body {
+    background: var(--bg-color);
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+}
+
+hr{
+    //background: var(--border-color);
+    border: 1px solid var(--border-color);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+

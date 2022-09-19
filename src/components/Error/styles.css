@@ -1,0 +1,22 @@
+.erro {
+    margin-top: 30px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.erro span{ 
+    display: flex;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    color: #fa3757;
+    font-size: 16px;
+}
+
+.erro .icon {
+    color: #fa3757;
+    font-size: 20px;
+    margin-right: 5px;
+}
