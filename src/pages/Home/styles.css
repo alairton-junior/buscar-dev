@@ -34,3 +34,10 @@ hr {
     margin: 10px 10px;
     text-align: left;
 }
+
+@media (max-width: 800px) {
+    .content {
+        width: 90%;
+    }
+
+}
