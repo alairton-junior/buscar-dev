@@ -10,4 +10,4 @@
 
 
 <br/>
-<strong>Acesse o projeto: </strong> <a href="https://alairton-junior.github.io/calculadora-com-react/" target="_blank">Aqui</a>
+<strong>Acesse o projeto: </strong> <a href="https://fancy-marshmallow-6d42e7.netlify.app/" target="_blank">Aqui</a>
